@@ -3,22 +3,6 @@ name = "learn-rust-by-example"
 version = "0.1.0"
 edition = "2021"
 
-[[bin]]
-name = "methods"
-path = "src/methods.rs"
-
-[[bin]]
-name = "overloadding"
-path = "src/overloadding.rs"
-
-[[bin]]
-name = "implicit-conversions"
-path = "src/implicit-conversions.rs"
-
-[[bin]]
-name = "arrays-and-loops"
-path = "src/arrays-and-loops.rs"
-
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
